@@ -1,0 +1,13 @@
+@tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+```
+
+   Create `src/App.jsx` and **paste the entire React code** from the artifact (all the code starting with `import React...` to `export default APStudyPlatform;`)
+
+4. **Create a `.gitignore` file**:
+```
+   node_modules
+   dist
+   .DS_Store
+   *.log
